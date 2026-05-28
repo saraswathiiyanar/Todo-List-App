@@ -10,5 +10,5 @@ Features
 - HTML
 - CSS
 - JavaScript
-Author
+# Author
 Developed by Saraswathi I- SAM AI Techmologies Internship
