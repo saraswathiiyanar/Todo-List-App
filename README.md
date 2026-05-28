@@ -1,6 +1,6 @@
 # Todo List App
 “A simple and responsive Todo List web application to add, manage, and track daily tasks using HTML, CSS, JavaScript and browser local storage.”
-Features
+# Features
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
